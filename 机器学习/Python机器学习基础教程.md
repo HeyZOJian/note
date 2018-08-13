@@ -75,7 +75,7 @@
 
 模型过于简单，无法抓住数据的全部内容以及数据中的变化，在训练集上表现很差
 
-![模型复杂度与训练精度和测试精度之间的权衡](/Users/zhuangzhongjian/Desktop/006tNbRwgy1fu8jrpf26yj30jo0ea40z.jpg)
+![模型复杂度与训练精度和测试精度之间的权衡](https://ws2.sinaimg.cn/large/006tNbRwgy1fu8jrpf26yj30jo0ea40z.jpg)
 
 ### 4. 交互项
 
